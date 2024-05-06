@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{39FF9A4B-C342-4210-BCE8-AA146CAA466E}|Portfolio_Project\\Portfolio_Project.csproj|c:\\users\\sevva\\portfolio_project\\portfolio_project\\portfolio_project\\views\\shared\\components\\_portfoliocomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{39FF9A4B-C342-4210-BCE8-AA146CAA466E}|Portfolio_Project\\Portfolio_Project.csproj|solutionrelative:portfolio_project\\views\\shared\\components\\_portfoliocomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39FF9A4B-C342-4210-BCE8-AA146CAA466E}|Portfolio_Project\\Portfolio_Project.csproj|c:\\users\\sevva\\portfolio_project\\portfolio_project\\portfolio_project\\viewcomponents\\_portfoliocomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39FF9A4B-C342-4210-BCE8-AA146CAA466E}|Portfolio_Project\\Portfolio_Project.csproj|solutionrelative:portfolio_project\\viewcomponents\\_portfoliocomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39FF9A4B-C342-4210-BCE8-AA146CAA466E}|Portfolio_Project\\Portfolio_Project.csproj|c:\\users\\sevva\\portfolio_project\\portfolio_project\\portfolio_project\\data access layer\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39FF9A4B-C342-4210-BCE8-AA146CAA466E}|Portfolio_Project\\Portfolio_Project.csproj|solutionrelative:portfolio_project\\data access layer\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39FF9A4B-C342-4210-BCE8-AA146CAA466E}|Portfolio_Project\\Portfolio_Project.csproj|c:\\users\\sevva\\portfolio_project\\portfolio_project\\portfolio_project\\viewcomponents\\_featurecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39FF9A4B-C342-4210-BCE8-AA146CAA466E}|Portfolio_Project\\Portfolio_Project.csproj|solutionrelative:portfolio_project\\viewcomponents\\_featurecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,46 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Portfolio.cs",
-              "DocumentMoniker": "C:\\Users\\sevva\\Portfolio_Project\\Portfolio_Project\\Portfolio_Project\\Data Access Layer\\Entities\\Portfolio.cs",
-              "RelativeDocumentMoniker": "Portfolio_Project\\Data Access Layer\\Entities\\Portfolio.cs",
-              "ToolTip": "C:\\Users\\sevva\\Portfolio_Project\\Portfolio_Project\\Portfolio_Project\\Data Access Layer\\Entities\\Portfolio.cs",
-              "RelativeToolTip": "Portfolio_Project\\Data Access Layer\\Entities\\Portfolio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T14:09:01.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_FeatureComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\sevva\\Portfolio_Project\\Portfolio_Project\\Portfolio_Project\\ViewComponents\\_FeatureComponentPartial.cs",
-              "RelativeDocumentMoniker": "Portfolio_Project\\ViewComponents\\_FeatureComponentPartial.cs",
-              "ToolTip": "C:\\Users\\sevva\\Portfolio_Project\\Portfolio_Project\\Portfolio_Project\\ViewComponents\\_FeatureComponentPartial.cs",
-              "RelativeToolTip": "Portfolio_Project\\ViewComponents\\_FeatureComponentPartial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T14:07:19.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_PortfolioComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\sevva\\Portfolio_Project\\Portfolio_Project\\Portfolio_Project\\ViewComponents\\_PortfolioComponentPartial.cs",
-              "RelativeDocumentMoniker": "Portfolio_Project\\ViewComponents\\_PortfolioComponentPartial.cs",
-              "ToolTip": "C:\\Users\\sevva\\Portfolio_Project\\Portfolio_Project\\Portfolio_Project\\ViewComponents\\_PortfolioComponentPartial.cs",
-              "RelativeToolTip": "Portfolio_Project\\ViewComponents\\_PortfolioComponentPartial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T14:07:09.873Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -75,9 +28,9 @@
               "RelativeDocumentMoniker": "Portfolio_Project\\Views\\Shared\\Components\\_PortfolioComponentPartial\\Default.cshtml",
               "ToolTip": "C:\\Users\\sevva\\Portfolio_Project\\Portfolio_Project\\Portfolio_Project\\Views\\Shared\\Components\\_PortfolioComponentPartial\\Default.cshtml",
               "RelativeToolTip": "Portfolio_Project\\Views\\Shared\\Components\\_PortfolioComponentPartial\\Default.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T14:07:06.611Z",
+              "WhenOpened": "2024-05-06T21:22:58.947Z",
               "EditorCaption": ""
             }
           ]
