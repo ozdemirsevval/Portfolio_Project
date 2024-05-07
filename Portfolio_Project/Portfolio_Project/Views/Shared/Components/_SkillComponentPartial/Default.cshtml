@@ -9,7 +9,7 @@
         @foreach(var item in Model)
         {
             <li>
-                <div class="progress percent" + @item.SkillValue><span>@item.SkillValue%</span></div>
+                <div class="progress percent@(item.SkillValue)"><span>@item.SkillValue%</span></div>
                 <strong>@item.SkillTitle</strong>
             </li>
         }

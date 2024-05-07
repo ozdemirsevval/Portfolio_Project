@@ -40,9 +40,17 @@
                             </p>
                         </div>
 
-                        <a href="@item.PortfolioUrl" target="_blank" class="item-folio__project-link" title="Project link">
-                            <i class="im im-link"></i>
-                        </a>
+                        <div id = "click">
+                            <a href="@item.PortfolioUrl" target="_blank" class="item-folio__project-link" title="Project link">
+                                <i class="im im-link"></i>
+                            </a>
+                        </div>
+                       <script>
+                           document.querySelector("#click").onclick = function () 
+                           {
+                               window.location.href = "@item.PortfolioUrl"
+                           }
+                       </script>
 
                         <div class="item-folio__caption">
                             <p>@item.PortfolioDescription</p>
